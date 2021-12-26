@@ -4,4 +4,3 @@ Reporting data wrangling efforts, data analyses, and visualizations of Twitter A
   - Data Wrangling (Gathering, Assessing, Cleaning) 
   - Storing, Analyzing, and Visualizing wrangled data
   - Data Visualizations
-  - Python and Jupyter Notebook
