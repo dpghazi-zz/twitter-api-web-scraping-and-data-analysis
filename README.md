@@ -5,3 +5,4 @@ Reporting data wrangling efforts, data analyses, and visualizations of Twitter A
   - Data Wrangling (Gathering, Assessing, Cleaning) 
   - Storing, Analyzing, and Visualizing wrangled data
   - Data Visualizations
+https://dpghazi.github.io/projects/twitter-api-web-scraping-data-analysis.html
