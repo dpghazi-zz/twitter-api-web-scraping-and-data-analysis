@@ -19,5 +19,5 @@ Reporting web scraping, data wrangling, data analyses, and visualizations of Twi
 * Json
 * Matplotlib
 
-## Featured Notebooks
+## Featured Notebook
 * [Twitter API Web Scraping & Data Analysis](https://dpghazi.github.io/projects/twitter-api-web-scraping-data-analysis.html)
