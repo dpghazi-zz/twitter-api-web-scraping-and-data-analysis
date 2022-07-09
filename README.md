@@ -2,7 +2,7 @@
 # [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://dpghazi.github.io/projects/twitter-api-web-scraping-data-analysis.html)
 
 ## Project Description
-Reporting data wrangling efforts, data analyses, and visualizations of Twitter API Data.
+Web scraping, data wrangling, data analyses, and visualizations of Twitter API Data
 
 ### Methods Used
 * Web Scraping (Tweepy and API)
