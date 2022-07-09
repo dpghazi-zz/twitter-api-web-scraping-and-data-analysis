@@ -1,4 +1,4 @@
-# Twitter API Web Scraping and Data Analysis
+# Twitter API Web Scraping & Data Analysis
 # [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://dpghazi.github.io/projects/twitter-api-web-scraping-data-analysis.html)
 
 ## Project Description
