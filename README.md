@@ -20,4 +20,4 @@ Reporting data wrangling efforts, data analyses, and visualizations of Twitter A
 * Matplotlib
 
 ## Featured Notebooks
-* [Twitter API Web Scraping and Data Analysis](https://dpghazi.github.io/projects/twitter-api-web-scraping-data-analysis.html)
+* [Twitter API Web Scraping & Data Analysis](https://dpghazi.github.io/projects/twitter-api-web-scraping-data-analysis.html)
