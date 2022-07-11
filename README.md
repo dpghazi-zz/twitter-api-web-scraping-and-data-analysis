@@ -10,7 +10,7 @@ Reporting web scraping, data wrangling, data analyses, and visualizations of Twi
 * Data Processing/Cleaning
 * Data Visualization
 
-### Tools & Technologies
+### Tools & Libraries
 * Python
 * Jupyter
 * Pandas
