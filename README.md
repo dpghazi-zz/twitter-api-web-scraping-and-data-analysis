@@ -4,7 +4,7 @@
 ## Project Description
 Reporting web scraping, data wrangling, data analyses, and visualizations of Twitter API data.
 
-### Methods Used
+### Overview
 * Web Scraping (Tweepy and API)
 * Exploratory Data Analysis
 * Data Processing/Cleaning
