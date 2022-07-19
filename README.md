@@ -1,8 +1,7 @@
 # Twitter API Web Scraping & Data Analysis
-# [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://dpghazi.github.io/projects/twitter-api-web-scraping-data-analysis.html)
 
 ## Project Description
-Reporting web scraping, data wrangling, data analyses, and visualizations of Twitter API data.
+Wrangling, analyzing and visualizing data gathered from WeRateDogs (@dog_rates) Twitter account, and an image prediction algorithm results. In this project, I queried Twitter’s API for each tweet’s JSON data to extract meaningful information (e.g., favorite count, retweet count) for data analysis. 
 
 ### Overview
 * Web Scraping (Tweepy and API)
